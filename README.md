@@ -33,4 +33,4 @@ This is wordle-like game made using API and vanilla Javascript(es6). The rules a
 ### If you find any issue in this repo, raise and issue without any worry! If you want to contribute, mention it in issue too!
 ### For contacting me, head to my profile and get in touch with any of the handles!
 
-## 
+##  Made with Love &#10084;
