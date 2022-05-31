@@ -1,3 +1,5 @@
+<p align="center"><img src="https://user-images.githubusercontent.com/95040233/171206020-fef4b717-101a-440f-a6fa-f7f8447253be.png"></p>
+
 # Wordle Game
 
 ## Authors
@@ -12,7 +14,7 @@
 
 
 ## About
-This is wordle-like game made using API and vanilla Javascript(es6). The rules are simple:
+This is wordle-like game made using API and vanilla Javascript(es6). Although fully responsive in mobile phones,desktop is recommended for better experience. The rules are simple:
 
 - You are given 6 chances
 - You need to guess the 5 lettered word
