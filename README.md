@@ -1,4 +1,4 @@
-<p align="center"><img src="https://user-images.githubusercontent.com/95040233/171206020-fef4b717-101a-440f-a6fa-f7f8447253be.png"></p>
+<p align="center"><img src="https://user-images.githubusercontent.com/95040233/174446747-16f6d8b8-a6da-4994-bf9c-63f95b810308.png"></p>
 
 # Wordle Game
 
